@@ -1,0 +1,6 @@
+.idea
+*.sqlite3
+.vEnv
+*pyc
+media
+clients_photos
